@@ -1,0 +1,31 @@
+.avion, .ruby, .cafe, .comida{
+	background-color: #E6E6E6;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	color: #848484;
+	margin: 10px;
+	padding: 20px;
+	display: inline-block;
+	float: left;
+}
+
+.corazon{
+	background-color: white;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	color: #A9E2F3;
+	margin: 10px;
+	padding: 10px;
+	display: inline-block;
+	float:left;
+
+}
+p{
+	font-family: oswald;
+	font-size: 10px;
+}
+h4, h5{
+	font-family: open sans condensed;
+}
